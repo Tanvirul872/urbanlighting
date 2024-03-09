@@ -1,0 +1,7394 @@
+@media (min-width: 1701px) and (max-width: 1800px) {}
+
+@media (min-width: 1501px) and (max-width: 1700px) {
+    .facci-fusori-main .fusori-content-bg {
+        padding-top: 87px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+
+        margin-top: 86px;
+    }
+}
+
+@media(min-width:1550px) {
+    .container {
+        max-width: 1440px;
+    }
+
+    .facci-fusori-main .col-lg-5 .single-image-box img {
+        max-height: 519px;
+    }
+}
+
+@media (min-width: 1366px) and (max-width: 1500px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 191px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 35px;
+        padding-right: 25px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 38px;
+        margin-bottom: 25px;
+
+        line-height: 34px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+
+        font-size: 18px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+
+        margin-top: 60px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+        font-size: 40px;
+        line-height: 38px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-type: disc;
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 43px;
+
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 70px 40px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 0;
+        justify-content: space-between;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        width: 140px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 180px);
+    }
+
+    .facci-timeline .all-timelines .single-time-line .year {
+        width: 80px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description p br {
+        display: none;
+
+    }
+
+    .quantometro-main .right-content-box {
+
+        padding-top: 60px;
+
+    }
+
+    .certificati-main .left-content-box {
+        padding-top: 55px;
+        padding-left: 45px;
+        padding-bottom: 75px;
+    }
+}
+
+/* min 1365px to max 1500px end here  */
+
+@media(min-width:1366px) and (max-width:1440px) {
+    .facci-fusori-main .fusori-content-bg {
+        padding-top: 82px !important;
+        padding-bottom: 82px !important;
+    }
+
+    /* automotive page start from here  */
+
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 80px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 25px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 40px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 100%;
+    }
+
+    /* contatti page ends here  */
+
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+@media (min-width: 1300px) and (max-width: 1365px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 191px;
+
+    }
+}
+
+/* min 1300px to max 1365px end here  */
+@media(min-width:1300px) {
+    .bars.sidebar-toggler-btn {
+        display: none;
+    }
+}
+
+@media(min-width:1281px) and (max-width:1365px) {
+
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 240px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 25%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 25px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* facciamo page start from here  */
+
+    .facci-fusori-main .single-image-box {
+        margin-bottom: 4px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .facci-fusori-main .fusori-content-bg {
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 30px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+
+        font-size: 15px;
+
+        line-height: 24px;
+
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 30px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 20px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 25px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-meccanica-main .left-image-box.mb-0 img {
+        height: auto;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 30px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line {
+        gap: 0;
+
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 65px);
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 30px 0;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .quantometro-main .right-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .image-box img {
+        height: auto;
+    }
+
+    .quantometro-main .row {
+        align-items: center;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 20px 15px;
+    }
+
+    .certificati-main .left-content-box h4 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(3) {
+        width: 25px;
+        height: 25px;
+    }
+
+    .certificati-main .download-file .single-file a {
+        font-size: 15px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) {
+
+        height: 25px;
+
+    }
+
+    /* facciamo page start from here  */
+
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 20px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 80px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 25px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 40px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 100%;
+    }
+
+    /* contatti page ends here  */
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 1281px to max 1365px end here  */
+
+@media (min-width: 1201px) and (max-width: 1299px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+
+    .applicazione-main .custom-row>* {
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .applicazione-main .full-bg-box {
+
+        height: 200px;
+
+    }
+
+    .applicazione-main .half-left-bg {
+
+        height: 220px;
+
+    }
+
+    .applicazione-main .half-right-bg {
+
+        height: 220px;
+
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main .card {
+        height: 100%;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+}
+
+/* min 1201px to max 1299px end here  */
+
+@media (max-width: 1299px) {
+
+
+    header .main-header {
+        padding: 20px 0;
+    }
+
+    header .main-header.bg-white {
+        padding: 20px 0;
+    }
+
+    header .main-header-items {
+        display: none;
+    }
+
+    header .main-header .logo-box img {
+        max-width: 220px;
+    }
+
+    header .main-header.sticky {
+        padding: 20px 0;
+    }
+
+    header .main-header.bg-white.sticky {
+        top: 0;
+    }
+
+    header .main-header.sticky .logo-box img {
+        max-width: 220px;
+    }
+
+    header .main-header.sticky {
+        animation-name: fadeInDown;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+    }
+}
+
+/*max 1299px end here   */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+
+    .applicazione-main .custom-row>* {
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .applicazione-main .full-bg-box {
+
+        height: 200px;
+
+    }
+
+    .applicazione-main .half-left-bg {
+
+        height: 220px;
+
+    }
+
+    .applicazione-main .half-right-bg {
+
+        height: 220px;
+
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main .card {
+        height: 100%;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 240px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 25%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 25px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* facciamo page start from here  */
+
+    .facci-fusori-main .single-image-box {
+        margin-bottom: 4px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .facci-fusori-main .fusori-content-bg {
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 30px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+
+        font-size: 15px;
+
+        line-height: 24px;
+
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 30px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 20px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 25px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-meccanica-main .left-image-box.mb-0 img {
+        height: auto;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 30px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line {
+        gap: 0;
+
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 65px);
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 30px 0;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .quantometro-main .right-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .image-box img {
+        height: auto;
+    }
+
+    .quantometro-main .row {
+        align-items: center;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 20px 15px;
+    }
+
+    .certificati-main .left-content-box h4 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(3) {
+        width: 25px;
+        height: 25px;
+    }
+
+    .certificati-main .download-file .single-file a {
+        font-size: 15px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) {
+
+        height: 25px;
+
+    }
+
+    /* facciamo page start from here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 20px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 100%;
+    }
+
+    /* contatti page ends here  */
+
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 1025px to max 1280px end here  */
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 425px;
+        max-height: 555px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+
+    .applicazione-main .custom-row>* {
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .applicazione-main .full-bg-box {
+
+        height: 200px;
+
+    }
+
+    .applicazione-main .half-left-bg {
+
+        height: 220px;
+
+    }
+
+    .applicazione-main .half-right-bg {
+
+        height: 220px;
+
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main .card {
+        height: 100%;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 240px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 50%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 25px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* facciamo page start from here  */
+
+    .facci-fusori-main .single-image-box {
+        margin-bottom: 4px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .facci-fusori-main .fusori-content-bg {
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 30px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+
+        font-size: 15px;
+
+        line-height: 24px;
+
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 30px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 20px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 25px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-meccanica-main .left-image-box.mb-0 img {
+        height: auto;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 30px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line {
+        gap: 0;
+
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 65px);
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 30px 0;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .quantometro-main .right-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .image-box img {
+        height: auto;
+    }
+
+    .quantometro-main .row {
+        align-items: center;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 20px 15px;
+    }
+
+    .certificati-main .left-content-box h4 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(3) {
+        width: 25px;
+        height: 25px;
+    }
+
+    .certificati-main .download-file .single-file a {
+        font-size: 15px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) {
+
+        height: 25px;
+
+    }
+
+    /* facciamo page start from here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 20px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 100%;
+    }
+
+    /* contatti page ends here  */
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 992px to max 1024px end here  */
+
+@media (max-width: 1024px) {}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 425px;
+        max-height: 555px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+
+    .applicazione-main .custom-row>* {
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .applicazione-main .full-bg-box {
+
+        height: 200px;
+
+    }
+
+    .applicazione-main .half-left-bg {
+
+        height: 220px;
+
+    }
+
+    .applicazione-main .half-right-bg {
+
+        height: 220px;
+
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main [class*='col-'] {
+        margin-bottom: 20px !important;
+    }
+
+    .blog-main [class*='col-']:last-child {
+        margin: 0;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 240px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 235px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 50%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 25px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* facciamo page start from here  */
+
+    .facci-fusori-main .single-image-box {
+        margin-bottom: 4px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .facci-fusori-main .fusori-content-bg {
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 30px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+
+        font-size: 15px;
+
+        line-height: 24px;
+
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 30px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 20px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 25px;
+
+        line-height: 30px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-meccanica-main .left-image-box.mb-0 img {
+        height: auto;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 30px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line {
+        gap: 0;
+
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 65px);
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 30px 0;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 15px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .quantometro-main .right-content-box p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .image-box img {
+        height: auto;
+    }
+
+    .quantometro-main .row {
+        align-items: center;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 20px 15px;
+    }
+
+    .certificati-main .left-content-box h4 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(3) {
+        width: 25px;
+        height: 25px;
+    }
+
+    .certificati-main .download-file .single-file a {
+        font-size: 15px;
+    }
+
+    .certificati-main .download-file .single-file a .download-flex div:nth-child(1) {
+
+        height: 25px;
+
+    }
+
+    /* facciamo page start from here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 20px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 100%;
+    }
+
+    /* contatti page ends here  */
+
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 768px to max 991px end here  */
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 325px;
+        max-height: 425px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .about-main .right-content-box p br {
+        display: none;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+        text-align: center;
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .home-gallary-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main [class*='col-'] {
+        margin-bottom: 20px !important;
+    }
+
+    .blog-main [class*='col-']:last-child {
+        margin: 0;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 49%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+
+    footer .single-flex-box {
+        margin-bottom: 20px;
+    }
+
+    footer .single-flex-box .footer-links ul {
+        margin-bottom: 10px;
+    }
+
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 365px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 50%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 50px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* cosa facciamo page start from here  */
+    .facci-fusori-main .fusori-content-bg {
+        margin-left: 0;
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .custom-row .pe-0 {
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 40px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 30px 40px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-type: disc;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .container-fluid {
+        padding: 0;
+    }
+
+    .facci-fusori-main .row {
+        --bs-gutter-x: 0;
+    }
+
+    .facci-fusori-main .custom-row>* {
+        padding: 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-3 {
+        padding: 0;
+    }
+
+    .facci-meccanica-main .row-two>* {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .facci-meccanica-main .left-image-box {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .row-two .col-lg-7 {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-9 {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 40px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 80px);
+    }
+
+    .quantometro-main {
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .ps-0 {
+        padding-right: 0;
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 40px 20px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 25px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) br {
+        display: none;
+    }
+
+    .quantometro-main .right-content-box p {
+        line-height: 22px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .certificati-main {
+        margin-bottom: 50px;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 50px 20px;
+    }
+
+    .certificati-main .left-content-box h4 {
+
+        font-size: 20px;
+
+        line-height: 22px;
+
+        margin-bottom: 40px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 30px;
+    }
+
+    .certificati-main .download-file .single-file a {
+
+        font-size: 16px;
+
+    }
+
+    .certificati-main .download-file img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file:last-child {
+        margin-bottom: 0;
+    }
+
+    /* cosa facciamo page end here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 15px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+    .news-details-main .media-details-sidebar {
+        padding-top: 50px;
+        padding-left: 0;
+        border: none;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 400px;
+    }
+
+    /* contatti page ends here  */
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    .contatti-banner .title-box h5 br {
+        display: none;
+    }
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+    .contatti-banner .title-box p br {
+        display: none;
+    }
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 576px to max 767px end here  */
+
+@media (max-width: 767px) {
+    .certificati-main .download-file .single-file {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 415px) and (max-width: 575px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 200px;
+        max-height: 325px;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .about-main .right-content-box p br {
+        display: none;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+        text-align: center;
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .home-gallary-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main [class*='col-'] {
+        margin-bottom: 20px !important;
+    }
+
+    .blog-main [class*='col-']:last-child {
+        margin: 0;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 280px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 346px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 320px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 100%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+
+        font-size: 18px;
+
+        line-height: 25px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 50px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+    /* cosa facciamo page start from here  */
+    .facci-fusori-main .fusori-content-bg {
+        margin-left: 0;
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .custom-row .pe-0 {
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 40px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 30px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-type: disc;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .container-fluid {
+        padding: 0;
+    }
+
+    .facci-fusori-main .row {
+        --bs-gutter-x: 0;
+    }
+
+    .facci-fusori-main .custom-row>* {
+        padding: 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-3 {
+        padding: 0;
+    }
+
+    .facci-meccanica-main .row-two>* {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .facci-meccanica-main .left-image-box {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .row-two .col-lg-7 {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-9 {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 40px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 80px);
+    }
+
+    .quantometro-main {
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .ps-0 {
+        padding-right: 0;
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 40px 0px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 25px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) br {
+        display: none;
+    }
+
+    .quantometro-main .right-content-box p {
+        line-height: 22px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .certificati-main {
+        margin-bottom: 50px;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 50px 0;
+    }
+
+    .certificati-main .left-content-box h4 {
+
+        font-size: 20px;
+
+        line-height: 22px;
+
+        margin-bottom: 40px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 30px;
+    }
+
+    .certificati-main .download-file .single-file a {
+
+        font-size: 16px;
+
+    }
+
+    .certificati-main .download-file img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file:last-child {
+        margin-bottom: 0;
+    }
+
+    /* cosa facciamo page end here  */
+
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 15px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+    .news-details-main .media-details-sidebar {
+        padding-top: 50px;
+        padding-left: 0;
+        border: none;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 400px;
+    }
+
+    /* contatti page ends here  */
+
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    .contatti-banner .title-box h5 br {
+        display: none;
+    }
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+    .contatti-banner .title-box p br {
+        display: none;
+    }
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 415px to max 575px end here  */
+
+@media (max-width: 575px) {
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        height: 232px;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .about-main .right-content-box p br {
+        display: none;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+        text-align: center;
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .home-gallary-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main [class*='col-'] {
+        margin-bottom: 20px !important;
+    }
+
+    .blog-main [class*='col-']:last-child {
+        margin: 0;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    footer {
+        /* padding: 50px 13px; */
+        padding: 50px 0;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 175px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 346px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 208px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 100%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+
+        font-size: 18px;
+
+        line-height: 25px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 50px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+    /* cosa facciamo page start from here  */
+    .facci-fusori-main .fusori-content-bg {
+        margin-left: 0;
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .custom-row .pe-0 {
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 40px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 30px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-type: disc;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .container-fluid {
+        padding: 0;
+    }
+
+    .facci-fusori-main .row {
+        --bs-gutter-x: 0;
+    }
+
+    .facci-fusori-main .custom-row>* {
+        padding: 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-3 {
+        padding: 0;
+    }
+
+    .facci-meccanica-main .row-two>* {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .facci-meccanica-main .left-image-box {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .row-two .col-lg-7 {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-9 {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 40px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 80px);
+    }
+
+    .quantometro-main {
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .ps-0 {
+        padding-right: 0;
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 40px 0px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 25px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) br {
+        display: none;
+    }
+
+    .quantometro-main .right-content-box p {
+        line-height: 22px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .certificati-main {
+        margin-bottom: 50px;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 50px 0;
+    }
+
+    .certificati-main .left-content-box h4 {
+
+        font-size: 20px;
+
+        line-height: 22px;
+
+        margin-bottom: 40px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 30px;
+    }
+
+    .certificati-main .download-file .single-file a {
+
+        font-size: 16px;
+
+    }
+
+    .certificati-main .download-file img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file:last-child {
+        margin-bottom: 0;
+    }
+
+    /* cosa facciamo page end here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 15px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+    .news-details-main .media-details-sidebar {
+        padding-top: 50px;
+        padding-left: 0;
+        border: none;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 400px;
+    }
+
+    /* contatti page ends here  */
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    .contatti-banner .title-box h5 br {
+        display: none;
+    }
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+    .contatti-banner .title-box p br {
+        display: none;
+    }
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* min 376px to max 414px end here  */
+
+@media (max-width: 414px) {
+    .counter-main .counter-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+@media (max-width: 375px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        height: 206px;
+    }
+
+    .home-slider-main .swiper-button-prev:after,
+    .home-slider-main .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+    .about-main h1 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .left-title-box p {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+
+    .about-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .about-main .right-content-box p br {
+        display: none;
+    }
+
+    .common-section-title h3 {
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2.2px;
+        margin-bottom: 20px;
+
+    }
+
+    .applicazione-main .content-box h4 {
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .content-box p {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .applicazione-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .anniversary-main {
+        padding: 50px 0;
+    }
+
+    .anniversary-main .right-logo-box {
+        margin: 35px 0;
+        text-align: center;
+    }
+
+    .anniversary-main .right-logo-box img {
+        max-width: 265px;
+
+    }
+
+    .anniversary-main .right-content-box h4 {
+        font-size: 25px;
+        margin-bottom: 10px;
+        line-height: 30px;
+
+    }
+
+    .anniversary-main .right-content-box h6 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .anniversary-main .right-content-box h6 br {
+        display: none;
+    }
+
+    .anniversary-main .right-content-box p {
+        font-size: 15px;
+        line-height: 22px;
+
+    }
+
+    .anniversary-main .right-content-box p br {
+        display: none;
+    }
+
+    .home-gallary-main .custom-row [class*='col-'] {
+        padding: 0;
+    }
+
+    .blog-main {
+        padding: 50px 0;
+    }
+
+    .blog-main [class*='col-'] {
+        margin-bottom: 20px !important;
+    }
+
+    .blog-main [class*='col-']:last-child {
+        margin: 0;
+    }
+
+    .blog-main .card .card-header {
+
+        padding: 10px 20px;
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .image-box {
+        min-height: 180px;
+
+    }
+
+    .blog-main .card .card-body .content-box {
+        padding: 20px 10px;
+    }
+
+    .blog-main .card .card-body .content-box h4 a {
+
+        font-size: 20px;
+
+        line-height: 20px;
+
+    }
+
+    .blog-main .card .card-body .content-box p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    .counter-main {
+        padding: 50px 0;
+    }
+
+    .counter-main .counter-grid .single-counter-box {
+        border-bottom: 1px dotted var(--title-gray);
+        margin-bottom: 20px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .counter-main .counter-grid .single-counter-box:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .counter-main .counter-grid .counter {
+        font-size: 35px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-title {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .counter-main .counter-grid .counter-desc {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* chisiamo page start from here  */
+    .chi-benvenut-main {
+        padding: 50px 0;
+    }
+
+    .chi-benvenut-main .title-box h1 {
+
+        font-size: 35px;
+
+        line-height: 33px;
+
+    }
+
+    .chi-benvenut-main .title-box h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .chi-benvenut-main .title-box h5 br {
+        display: none;
+    }
+
+    .chi-benvenut-main .short-desc {
+        margin-bottom: 30px;
+    }
+
+    .chi-benvenut-main .short-desc p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .short-desc p br {
+        display: none;
+    }
+
+    .chi-benvenut-main .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .chi-benvenut-main .description p br {
+        display: none;
+    }
+
+    .chi-gallary-main .info-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .applicazione-main.chi-gallary-main .full-bg-box {
+        height: 175px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-left-bg {
+        margin-bottom: 5px;
+        height: 346px;
+    }
+
+    .applicazione-main.chi-gallary-main .half-right-bg {
+        margin-bottom: 5px;
+        height: 208px;
+    }
+
+    .applicazione-main.chi-gallary-main .pe-0 .half-right-bg {
+        margin-bottom: 5px;
+        height: 365px;
+    }
+
+    .chi-mission-main {
+        margin-top: 50px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission {
+        flex-basis: 100%;
+        padding: 40px 20px;
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .title {
+
+        font-size: 30px;
+        margin-bottom: 20px;
+
+        line-height: 35px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .short-desc {
+
+        font-size: 18px;
+
+        line-height: 25px;
+
+    }
+
+    .chi-mission-main .missiion-flex-main .single-mission .description {
+        font-size: 16px;
+    }
+
+    .chi-valori-main {
+        padding: 50px 0;
+    }
+
+    .chi-valori-main .image-box img {
+        max-width: 100%;
+    }
+
+    .chi-valori-main .right-content-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .chi-valori-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+        margin-bottom: 30px;
+    }
+
+    .chi-valori-main .right-content-box p br {
+        display: none;
+    }
+
+    .storia-main {
+        padding-bottom: 50px;
+    }
+
+    .storia-main .left-box h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .storia-main .left-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .storia-main .left-box p br {
+        display: none;
+    }
+
+    .storia-main .right-content-box {
+        margin-top: 30px;
+    }
+
+    .storia-main .right-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .timeline-main {
+        padding: 50px 0;
+    }
+
+    .timeline-main .title-box {
+        margin-bottom: 30px;
+    }
+
+    .timeline-main .title-box h4 {
+        font-size: 35px;
+    }
+
+    .timeline-main .all-timelines .single-time-line {
+        gap: 15px;
+        align-items: center;
+        padding-top: 11px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .year {
+        font-size: 30px;
+        width: 65px;
+        letter-spacing: 0;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description {
+        width: calc(100% - 100px);
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .timeline-main .all-timelines .single-time-line .description p br {
+        display: none;
+    }
+
+    .chi-team-main .swiper-button-prev:after,
+    .chi-team-main .swiper-button-next:after {
+        font-size: 18px;
+    }
+
+    .chi-team-main .team-details {
+        padding-top: 50px;
+    }
+
+    .chi-team-main .team-details h3 {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+
+    .chi-team-main .team-details h6 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 25px;
+    }
+
+    .chi-team-main .team-details h6 br {
+        display: none;
+    }
+
+    .chi-team-main .team-details p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    /* chisiamo page ends here  */
+
+    /* cosa facciamo page start from here  */
+    .facci-fusori-main .fusori-content-bg {
+        margin-left: 0;
+        padding: 40px 20px;
+    }
+
+    .facci-fusori-main .custom-row .pe-0 {
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box h2 br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box ul li {
+        font-size: 16px;
+        line-height: 24px;
+        list-style-position: outside;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) {
+        margin-top: 40px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box p br {
+        display: none;
+    }
+
+    .facci-fusori-main .fusori-content-bg .content-box:nth-child(2) ul {
+        margin-bottom: 20px;
+    }
+
+    .chi-benvenut-main.facciamo-benvenut {
+        padding: 50px 0;
+    }
+
+    .facci-meccanica-main .left-content-box {
+        padding: 30px 20px;
+    }
+
+    .facci-meccanica-main .left-content-box h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .facci-meccanica-main .left-content-box h3 br {
+        display: none;
+    }
+
+    .facci-meccanica-main .left-content-box ul {
+        padding-left: 20px;
+    }
+
+    .facci-meccanica-main .left-content-box ul li {
+        font-size: 16px;
+        line-height: 22px;
+        list-style-type: disc;
+        list-style-position: outside;
+    }
+
+    .facci-meccanica-main .left-content-box p {
+
+        font-size: 16px;
+
+        line-height: 22px;
+    }
+
+    .facci-fusori-main .custom-row-second>div[class^="col-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .facci-fusori-main .container-fluid {
+        padding: 0;
+    }
+
+    .facci-fusori-main .row {
+        --bs-gutter-x: 0;
+    }
+
+    .facci-fusori-main .custom-row>* {
+        padding: 0;
+    }
+
+    .facci-meccanica-main {
+        padding-bottom: 50px;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-3 {
+        padding: 0;
+    }
+
+    .facci-meccanica-main .row-two>* {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .facci-meccanica-main .left-image-box {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .row-two .col-lg-7 {
+        margin-bottom: 0;
+    }
+
+    .facci-meccanica-main .first-row .col-lg-9 {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline {
+        margin-bottom: 0;
+    }
+
+    .facci-timeline .timeline-border {
+        padding: 40px 20px;
+    }
+
+    .facci-timeline .all-timelines .single-time-line .description {
+        width: calc(100% - 80px);
+    }
+
+    .quantometro-main {
+        margin-bottom: 0;
+    }
+
+    .quantometro-main .ps-0 {
+        padding-right: 0;
+    }
+
+    .quantometro-main .right-content-box {
+        padding: 40px 0px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) {
+        margin-bottom: 25px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+
+    .quantometro-main .right-content-box p:nth-child(1) br {
+        display: none;
+    }
+
+    .quantometro-main .right-content-box p {
+        line-height: 22px;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .certificati-main {
+        margin-bottom: 50px;
+    }
+
+    .certificati-main .left-content-box {
+        padding: 50px 0;
+    }
+
+    .certificati-main .left-content-box h4 {
+
+        font-size: 20px;
+
+        line-height: 22px;
+
+        margin-bottom: 40px;
+    }
+
+    .certificati-main .left-content-box h4 br {
+        display: none;
+    }
+
+    .certificati-main .left-content-box h5 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 30px;
+    }
+
+    .certificati-main .download-file .single-file a {
+
+        font-size: 16px;
+
+    }
+
+    .certificati-main .download-file img {
+        width: 25px;
+    }
+
+    .certificati-main .download-file .single-file:last-child {
+        margin-bottom: 0;
+    }
+
+    /* cosa facciamo page end here  */
+
+    /* media page start from here  */
+    .media-banner-main {
+        padding: 50px 0;
+    }
+
+    .media-banner-main .title-box h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .media-banner-main .title-box ul li a {
+        padding: 10px 15px;
+
+        font-size: 16px;
+
+        line-height: 22px;
+
+    }
+
+    /* media page ends here  */
+
+
+
+
+    /* News Details page start from here   */
+    .news-details-main {
+        padding: 50px 0;
+    }
+
+    .news-details-main .details-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .news-details-main .details-content h4 {
+
+        font-size: 18px;
+
+        line-height: 22px;
+
+    }
+
+    .news-details-main .details-content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .details-content p br {
+        display: none;
+    }
+
+    .news-details-main .details-content img {
+        margin-top: 20px;
+    }
+
+    .news-details-main .media-details-sidebar {
+        padding-top: 50px;
+        padding-left: 0;
+        border: none;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .news-details-main .media-details-sidebar .sidebar-contents .single-news {
+        margin-bottom: 20px;
+    }
+
+    .sidebar-contents.archive-news {
+        margin-top: 50px;
+    }
+
+    /* News Details page ends here   */
+
+    /* automotive page start from here  */
+    .automative-slider-main {
+        padding-top: 50px;
+    }
+
+    .automative-slider-main .automative-links h3::before {
+        max-width: 80%;
+    }
+
+    .automative-slider-main .automative-links h3 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .automative-slider-main .automative-links ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* automotive page ends here  */
+
+    /* contatti page start from here  */
+
+    .contatti-banner {
+        padding: 50px 0;
+    }
+
+    .contatti-banner h3 {
+
+        font-size: 35px;
+
+        line-height: 35px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box {
+
+        margin-right: 0;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact-info-main ul li a {
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information h5 {
+
+        font-size: 15px;
+
+        line-height: 22px;
+
+    }
+
+    .contact-info-main .contactflex-main .position-box .all-information a strong {
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main {
+        padding: 50px 0;
+    }
+
+    .contattif-form-main .contatti-title h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main .contatti-title {
+        margin-bottom: 25px;
+    }
+
+    .contattif-form-main form input[type="text"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form input[type="email"] {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 21px;
+        margin-bottom: 20px;
+    }
+
+    .contattif-form-main form .form-check {
+
+        align-items: flex-start;
+
+    }
+
+    .contattif-form-main .form-submit-btn button {
+        margin-top: 15px;
+        padding: 9px 28px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .contattif-form-main form {
+        padding: 0;
+    }
+
+    .info-mapbox {
+        height: 400px;
+    }
+
+    /* contatti page ends here  */
+
+    /* connoi page start from here  */
+    .contatti-banner .title-box h5 {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+
+    .contatti-banner .title-box h5 br {
+        display: none;
+    }
+
+    .contatti-banner .title-box p {
+        font-size: 15px;
+    }
+
+    .contatti-banner .title-box p br {
+        display: none;
+    }
+
+    .contattif-form-main.connoi-form-main {
+        padding-top: 0;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .file-selection {
+
+        width: 106px;
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .contattif-form-main .custom-flie-input-flex .choosen-file-holder {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .form-label {
+        font-size: 15px;
+    }
+
+    .contattif-form-main .custom-file-wrapper {
+        margin-bottom: 20px;
+
+    }
+
+    /* connoi page ends here  */
+}
+
+/* max 375px end here  */
